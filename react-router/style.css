@@ -1,0 +1,37 @@
+.nav ul li{
+  list-style: none;
+  display: inline;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  padding: 30px;
+  font-size: 20px;
+  float: left;
+  text-decoration: none;
+
+  
+}
+.nav ul li:hover{
+  color: darkcyan;
+}
+.main{
+
+  background: palegoldenrod;
+  height: 10vh;
+}
+div,.nav ul{
+  margin: 0px;
+  padding: 0px;
+  margin-top: 0px;
+}
+body{
+  margin: 0;
+  padding: 0;
+}
+#navt{
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+  }
+  h1{
+    margin: 70px;
+  }
+
+
